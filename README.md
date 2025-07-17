@@ -48,8 +48,8 @@
 
 ### 📫 Como me encontrar
 
-📧 gustavoholanda16@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-holanda/)  
+📧 holandsouza@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavoholandasousa/)  
 🐙 [GitHub](https://github.com/GustavoHolanda16)  
 
 ---
