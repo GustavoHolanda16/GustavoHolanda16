@@ -41,8 +41,8 @@
 | Projeto | Descrição | Linguagens |
 | ------ | --------- | ---------- |
 | [Track_Invest](https://github.com/GustavoHolanda16/track_invest) | Sistema para controle e acompanhamento de investimentos pessoais | Python, Flask, SQLite |
-| [Hyb](https://github.com/GustavoHolanda16/hyb) | Plataforma de automação e integração de APIs com interface web | Python, Flask, HTML, CSS |
 | [Portfolio](https://github.com/GustavoHolanda16/portfolio) | Meu portfólio pessoal para apresentação de projetos e skills | HTML, CSS, JavaScript |
+| [Filmes] (https://github.com/GustavoHolanda16/filmes) | Site para visualiação de inforações de filmes e seires | HTML, CSS, JavaScript, API|
 
 ---
 
