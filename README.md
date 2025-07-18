@@ -1,4 +1,4 @@
-#👋 Oii, eu sou o Gustavo Holanda!
+#👋 Oi, eu sou o Gustavo Holanda!
 
 **Estudante de Análise e Desenvolvimento de Sistemas** | Apaixonado por desenvolvimento web e automação 🤖 | Em busca de estágio para crescer na área de tecnologia.
 
@@ -8,8 +8,7 @@
 
 - 🎓 Técnico em Sistemas de Informação pelo IFPI  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas pela Uninter (2º semestre)  
-- 🚀 Desenvolvo projetos com Python, Flask, HTML, CSS e JavaScript  
-- 🔗 Experiência com integração de APIs e automações com n8n  
+- 🚀 Desenvolvo projetos com Python, Flask, HTML, CSS e JavaScript   
 - 🎯 Tenho experiência prévia em vendas, supervisão de produção e cuidado educacional, que aprimoraram minha comunicação, organização e empatia  
 - 💡 Sempre em busca de aprender coisas novas e entregar soluções reais e úteis  
 
@@ -55,5 +54,5 @@
 ---
 
 <div align="center">  
-  <sub>Feito com ❤️ por Gustavo Holanda</sub>  
+  <sub>Gustavo Holanda</sub>  
 </div>
