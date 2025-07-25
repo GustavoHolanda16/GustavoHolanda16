@@ -41,7 +41,7 @@
 | ------ | --------- | ---------- |
 | [Track_Invest](https://github.com/GustavoHolanda16/track_invest) | Sistema para controle e acompanhamento de investimentos pessoais | Python, Flask, SQLite |
 | [Portfolio](https://github.com/GustavoHolanda16/portfolio) | Meu portfólio pessoal para apresentação de projetos e skills | HTML, CSS, JavaScript |
-| [Filmes] (https://github.com/GustavoHolanda16/filmes) | Site para visualiação de inforações de filmes e seires | HTML, CSS, JavaScript, API|
+| [Filmes](https://github.com/GustavoHolanda16/filmes) | Site para visualiação de inforações de filmes e seires | HTML, CSS, JavaScript, API|
 
 ---
 
